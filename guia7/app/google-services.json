@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593023965588",
+    "project_id": "guia7-dsm",
+    "storage_bucket": "guia7-dsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593023965588:android:6e39e92b4e194c750c1781",
+        "android_client_info": {
+          "package_name": "com.local.guia7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593023965588-8rbk80beb5i8lt7h4vsdtc7ckles9qg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9UAPNS66FREs1m5UQKcsfdqDw_jn7RJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593023965588-8rbk80beb5i8lt7h4vsdtc7ckles9qg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
