@@ -1,0 +1,12 @@
+com/local/guia7/dashboard.java
+ com.local.guia7.dashboard
+com/local/guia7/BuildConfig.java
+ com.local.guia7.BuildConfig
+com/local/guia7/login.java
+ com.local.guia7.login
+ com.local.guia7.login$1
+com/local/guia7/registry.java
+ com.local.guia7.registry
+ com.local.guia7.registry$1
+com/local/guia7/MainActivity.java
+ com.local.guia7.MainActivity
